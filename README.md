@@ -1,2 +1,8 @@
-# crypto-project
-Cryptocurrency Market Data This project fetches and displays cryptocurrency data from the CoinGecko API. It allows users to search and filter by cryptocurrency name and sort by market cap and percentage change. Demonstrates the use of .then and async/await for API requests.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
